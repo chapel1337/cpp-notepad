@@ -8,9 +8,9 @@ using std::cout; using std::cin; using std::string;
 // made from 9/31/2022 to 10/1/2022
 // started on 9/31/2022 late at night with little to no motivation, didn't get much done
 // finished today with (again) little to no motivation, took much longer than it should've to make
-// my largest and most ambitious project yet™
+// my largest and most ambitious project yetâ„¢
 // attempted to make this spread out into multiple files, but the linker was being very funny
-// 557 lines
+// 567 lines
 // run this as adminstrator for all features to work
 
 std::ofstream output{};
